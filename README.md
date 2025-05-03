@@ -1,6 +1,5 @@
 # NYC Taxi Fare Prediction
 
-**Role:** Individual Project | **Course:** UCR STAT 206
 
 **Objective:** Leverage real-world New York City taxi data to extract actionable insights and construct a high‑accuracy fare prediction model using advanced feature engineering and machine learning techniques.
 
